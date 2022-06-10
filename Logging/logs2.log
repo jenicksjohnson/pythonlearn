@@ -1,0 +1,16 @@
+INFO '2022-02-02 11:39:58,159' = an info message
+DEBUG '2022-02-02 11:39:58,159' = a debug message
+INFO '2022-02-02 11:39:58,159' = this is an info message
+ERROR '2022-02-02 11:39:58,159' = Error occurred!
+Traceback (most recent call last):
+  File "C:\Users\Jenicks\PycharmProjects\pythonProject\Logging\2.2_logging.py", line 71, in <module>
+    c = b / a
+ZeroDivisionError: division by zero
+INFO 2022-02-02 11:40:54,026 = an info message
+DEBUG 2022-02-02 11:40:54,026 = a debug message
+INFO 2022-02-02 11:40:54,026 = this is an info message
+ERROR 2022-02-02 11:40:54,026 = Error occurred!
+Traceback (most recent call last):
+  File "C:\Users\Jenicks\PycharmProjects\pythonProject\Logging\2.2_logging.py", line 71, in <module>
+    c = b / a
+ZeroDivisionError: division by zero

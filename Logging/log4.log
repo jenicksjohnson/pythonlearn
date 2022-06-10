@@ -1,0 +1,6 @@
+INFO:root:this is an info message
+ERROR:root:Error occurred!
+Traceback (most recent call last):
+  File "C:\Users\Jenicks\PycharmProjects\pythonProject\Logging\2.2_logging.py", line 71, in <module>
+    c = b / a
+ZeroDivisionError: division by zero
